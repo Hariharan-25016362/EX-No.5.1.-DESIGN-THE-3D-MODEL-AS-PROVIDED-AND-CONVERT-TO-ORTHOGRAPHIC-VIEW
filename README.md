@@ -36,6 +36,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![EXP 5 1 DRAQING_page-0001](https://github.com/user-attachments/assets/07314b6a-831a-4289-9a75-ef6f270ab1d2)
+
 
 
 ## RESULT:
